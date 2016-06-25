@@ -14,4 +14,4 @@ tags:
 - 放在`_post`子目录的文章仍然会显示，删除fork过来的所有放在子目录里的post存档。
 - ulysses编辑器有问题，弃用。
 - [macdown编辑器](https://uranusjr.com/work/)
-
+- 可以通过在主文件夹中增加page样式文件，增加右上的page页。
