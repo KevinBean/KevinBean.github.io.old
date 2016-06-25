@@ -3,8 +3,8 @@ layout:     post
 title:     Github Jekyll 尝试
 subtitle:   " Github Jekyll 尝试"
 header-img: ""
-categories: [blog ]()
-tags: [test, ]()
+categories: [blog ]
+tags: [test, ]
 description: 测试
 tags:
 ---
