@@ -1,68 +1,28 @@
-Freshman21
-==========
+# So Simple Theme
 
-Freshman21 is a Jekyll blog theme, base on theme [Freshman](http://github.com/yulijia/freshman). 
+Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
-A tribute to WordPress Theme Twenty-Twelve and Twenty-eleven.
+## Notable features:
 
-Enjoy.
+* Compatible with Jekyll 3 and GitHub Pages.
+* Responsive templates. Looks good on mobile, tablet, and desktop devices.
+* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
+* Minimal embellishments and subtle animations.
+* Optional large feature images for posts and pages.
+* [Custom 404 page](http://mmistakes.github.io/so-simple-theme/404.html) to get you started.
+* Basic [search capabilities](https://github.com/mathaywarduk/jekyll-search)
+* Support for Disqus Comments
 
+![screenshot of So Simple Theme](http://mmistakes.github.io/so-simple-theme/images/so-simple-theme-preview.jpg)
 
-![Screen](http://i.imgur.com/oSp7kacl.png)
+See a [live version of So Simple](http://mmistakes.github.io/so-simple-theme/) hosted on GitHub.
 
-### Version 2.1 update 2016.06.06
+---
 
-- master branch: the simplest template, original version with
-	* Open Graph META Tags
-	* Microdata(schema.org)
+## Getting Started
 
-- gh-pages branch: master branch with 
+So Simple takes advantage of Sass and data files to make customizing easier and requires Jekyll 3.x.
 
-	* [google analytics js template](https://github.com/yulijia/freshman21/blob/gh-pages/_includes/google_analytics.js)
-        * [BackToTop js script](https://github.com/yulijia/freshman21/tree/gh-pages/js)
-        * <q>readmore</q> module
-        * [keyboard shortcuts for pagination](http://yulijia.net/freshman21/news/2016/05/24/new-features.html)
-	* font awesome icon
-	* [Google search](https://github.com/yulijia/freshman21/blob/gh-pages/_includes/google_search.js)
+To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/so-simple-theme/theme-setup/) for more information.
 
-Clone master branch: 
-
-` git clone https://github.com/yulijia/freshman21.git -b master --single-branch`
-
-Clone gh-pages branch: 
-
-`git clone https://github.com/yulijia/freshman21.git -b gh-pages --single-branch`
-
-
-### A Summary of Features
-
-- Provide single column and two columns layout
-- Powerful configure file
-- Comments by Disqus
-- Support LaTeX (by MathJax)
-- Syntax highlighting
-- Multiple Languages support 
-    * English
-    * Chinese
-    * Japanese (Contributed by [kokeiro](https://github.com/kokeiro001))
-    * Polish (Contributed by [Derson5](https://github.com/Derson5))
-
-
-### How to install this theme?
-
-```
-# please make sure you have already installed git tools and ruby tools(gem)
-$ gem install sass
-$ gem install jekyll
-$ git clone https://github.com/yulijia/freshman21.git
-$ mv freshman21/ yourblogname.github.io/
-
-```
-
-### Demo
-
-Single column, please see [my own blog](http://yulijia.net/en/)
-
-Two columns, please see the [theme website](http://yulijia.net/freshman21/)
-
-
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
