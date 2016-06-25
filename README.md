@@ -1,28 +1,26 @@
-# So Simple Theme
+# Microdust 微尘
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+This is a blog created by Azeril. The blog is live at [azeril.me](http://azeril.me/).
 
-## Notable features:
+## Thanks
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates. Looks good on mobile, tablet, and desktop devices.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page](http://mmistakes.github.io/so-simple-theme/404.html) to get you started.
-* Basic [search capabilities](https://github.com/mathaywarduk/jekyll-search)
-* Support for Disqus Comments
+The blog used many tool/service,many thanks to:
 
-![screenshot of So Simple Theme](http://mmistakes.github.io/so-simple-theme/images/so-simple-theme-preview.jpg)
+* [Github](https://github.com/), all the data based on;
+* [Git](https://git-scm.com/), blogs and code files version control system;
+* [Jekyll](http://jekyllrb.com/), a static site generator;
+* [Clean Blog Theme](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll), a theme by Start Bootstrap;
+* [Markdown](https://daringfireball.net/projects/markdown/), a beautiful lightweight markup language.
+* [DNSPod](https://www.dnspod.cn/), the DNS service provider who surport the domain name resolution;
+* [Duoshuo](http://duoshuo.com/), a socialization comments plugin.
+* [Google](http://google.com), the one who tell me how to make it.
+* …
 
-See a [live version of So Simple](http://mmistakes.github.io/so-simple-theme/) hosted on GitHub.
+## How To Creat A Jekyll Blog
 
----
+[Build-Your-First-GitHub-Pages-Blog](http://azeril.me/blog/Build-Your-First-GitHub-Pages-Blog.html)
 
-## Getting Started
+Build your blog Step by step
+## Just write
 
-So Simple takes advantage of Sass and data files to make customizing easier and requires Jekyll 3.x.
-
-To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/so-simple-theme/theme-setup/) for more information.
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+Start writing now！

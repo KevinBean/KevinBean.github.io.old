@@ -1,59 +1,74 @@
-# Site wide configuration
+# Site settings
+title: Microdust
+header-img: "img/autumn2.jpg"
+tagline: "吉光片羽"  
+description: "在遙遠的地方 一切虔誠終必相遇"  
+baseurl: ""
+url: "http://azeril.me"  
+#url: "http://localhost:4000"
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
-logo: site-logo.png
-search: true
-url: http://localhost:4000
+# About/contact
+owner: 
+  name: "Azeril"
+  email: azeril@live.cn
+  bio: "明朝即長路 惜取此時心"
 
-# Jekyll configuration
+# Data
+gavatar: http://dreamofbook.qiniudn.com/Az..png
+favicon: img/favicon.ico
 
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+douban_username: Azeril
+twitter_username: Azeril_Lapland  
+github_username: Azeril  
+facebook_username: Azeril_Lapland  
+weibo_username: Azeril  
+zhihu_username: Azeril  
 
+# Build settings  
+# use Github Flavored Markdown !important  
+# document: http://jekyllrb.com/docs/configuration/#kramdown  
+markdown: kramdown
 kramdown:
   input: GFM
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  enable_coderay: false
+highlighter: rouge
 
-mathjax: true
+gems: 
+- jekyll-gallery-generator
+- jekyll-paginate
+permalink: none
+paginate: 8
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
+
+# Title
 
 
-# Site owner
-owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+# Defaults for posts
+defaults:
+  -
+    scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Azeril"
+      header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
+
+
+# Comments 
+comments :
+  provider : duoshuo
+  duoshuo :
+    short_name : Azeril
+  disqus :
+      short_name : Azeril
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-66863061-1
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in footer navigation
