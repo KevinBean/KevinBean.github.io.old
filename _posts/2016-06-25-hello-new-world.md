@@ -5,8 +5,7 @@ subtitle:   " Github Jekyll 尝试"
 header-img: ""
 categories: [blog ]
 tags: [test, ]
-description: 测试
-tags:
+ 
 ---
 
 ## 坑
