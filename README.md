@@ -1,26 +1,31 @@
 # WriteLab 写做实验室
 
-This is a blog created by Kevin. The blog is live at [writelab.cn](http://writelab.cn/).
+This is a blog created by Kevin. The blog is live at [writelab.cn][1].
 
 ## Thanks
 
 The blog used many tool/service,many thanks to:
 
-* [Github](https://github.com/), all the data based on;
-* [Git](https://git-scm.com/), blogs and code files version control system;
-* [Jekyll](http://jekyllrb.com/), a static site generator;
-* [Clean Blog Theme](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll), a theme by Start Bootstrap;
-* [Azeril](http://azeril.me/) does some work based on Clean Blog Theme.
-* [Markdown](https://daringfireball.net/projects/markdown/), a beautiful lightweight markup language.
-* [Duoshuo](http://duoshuo.com/), a socialization comments plugin.
-* [Google](http://google.com), the one who tell me how to make it.
+* [Github][2], all the data based on;
+* [Git][3], blogs and code files version control system;
+* [Jekyll][4], a static site generator;
+* [Clean Blog Theme][5], a theme by Start Bootstrap;
+* [Azeril][6] does some work based on Clean Blog Theme.
+* [Markdown][7], a beautiful lightweight markup language.
+* [Duoshuo][8], a socialization comments plugin.
+* [Google][9], the one who tell me how to make it.
 * …
 
-## How To Creat A Jekyll Blog
-
-[Build-Your-First-GitHub-Pages-Blog](http://azeril.me/blog/Build-Your-First-GitHub-Pages-Blog.html)
-
-Build your blog Step by step
 ## Do write
 
 Start writing now！
+
+[1]:	http://writelab.cn/
+[2]:	https://github.com/
+[3]:	https://git-scm.com/
+[4]:	http://jekyllrb.com/
+[5]:	https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll
+[6]:	http://azeril.me/
+[7]:	https://daringfireball.net/projects/markdown/
+[8]:	http://duoshuo.com/
+[9]:	http://google.com
