@@ -18,15 +18,20 @@ pycharm
 - [Flask 之旅][3]
 ## TODOS
 - 学习mysql
-- 数据科学家
+- 数据科学
 	 - 学习简单统计学知识
+	- 机器学习算法
 - 网站开发
 	- 基本的JS语法
 	- bootstrap
 	- nginx、或是apache
+	- 熟悉web框架flask
+- 熟悉linux系统
+- 学习产品部署、测试、修复bug
 ## 简单的python项目
 - 自动校审系统
 - 自动化布线系统
+- 聊天机器人开发（基于内部资料、工程信息）
 
 [1]:	https://github.com/biazzotto/svgwrite "https://github.com/biazzotto/svgwrite"
 [2]:	https://github.com/Yixiaohan/show-me-the-code
