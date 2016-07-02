@@ -11,13 +11,18 @@ tags: [project,learn ]
 ## python工具
 - svgwrite 矢量图绘制工具 [https://github.com/biazzotto/svgwrite][1]
 - pycharm
+- Anaconda python数据分析集成包
 
 ## python学习
 - PYTHON自然语言处理中文翻译 NLTK Natural Language Processing with Python 中文版.pdf 2016.06
 - [python练习册][2]
+- [MySQL在线学习及测试][3]
 - Flask Web开发
 	- virtualenv环境，一个便捷的Python虚拟环境，pycharm中可以直接创建
-- [Flask 之旅][3]
+- [Flask 之旅][4]
+- 数据科学
+	- [十分钟搞定pandas][5]
+	- [https://www.kaggle.com/][6]
 
 ## TODOS
 - 学习mysql
@@ -39,4 +44,7 @@ tags: [project,learn ]
 
 [1]:	https://github.com/biazzotto/svgwrite "https://github.com/biazzotto/svgwrite"
 [2]:	https://github.com/Yixiaohan/show-me-the-code
-[3]:	https://spacewander.github.io/explore-flask-zh/14-deployment.html
+[3]:	http://sqlzoo.net/wiki/SQL_Tutorial
+[4]:	https://spacewander.github.io/explore-flask-zh/14-deployment.html
+[5]:	http://www.shizhuolin.com/2015/04/19/978.html
+[6]:	https://www.kaggle.com/
