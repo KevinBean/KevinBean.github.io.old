@@ -18,6 +18,10 @@ tags: [project,learn ]
 - jupiter notebook
 - mactex
 - xlwings 用python操作excel文件
+- aims 聊天机器人
+- node.js (最新版自带npm）
+
+
 ## python学习
 - [python练习册][3]
 - 网站开发
