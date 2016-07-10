@@ -55,7 +55,8 @@ tags: [log, program]
 	    out.write("    </template>\n")
 	    out.write("  </category>\n")
 	    out.write('< /aiml >\n')
-	    out.flush()
+	    out.flush()'' 
+
 ## 第二种：根据一个给定的XML Schema，使用DOM树的形式从空白文件生成一个XML。
 	from xml.dom import minidom
 	import traceback
@@ -97,5 +98,6 @@ tags: [log, program]
 	        f.close()
 
 	except IOError:
-	    print "open file failed"
+	    print "open file failed"。
+	
 

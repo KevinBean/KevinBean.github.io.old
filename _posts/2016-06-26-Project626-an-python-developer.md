@@ -20,19 +20,20 @@ tags: [project,learn ]
 - xlwings 用python操作excel文件
 - aims 聊天机器人
 - node.js (最新版自带npm）
+- Tkinter GUI开发工具，python版官方工具 [参考文档][3]
 
 
 ## python学习
-- [python练习册][3]
+- [python练习册][4]
 - 网站开发
 	- Flask Web开发
 		- virtualenv环境，一个便捷的Python虚拟环境，pycharm中可以直接创建
-		- [Flask 之旅][4]
+		- [Flask 之旅][5]
 - 学习mysql
-	- [MySQL在线学习及测试][5]
+	- [MySQL在线学习及测试][6]
 - 数据科学
-	- [十分钟搞定pandas][6]
-	- [https://www.kaggle.com/][7]
+	- [十分钟搞定pandas][7]
+	- [https://www.kaggle.com/][8]
 - PYTHON自然语言处理中文翻译 NLTK Natural Language Processing with Python 中文版.pdf 2016.06
 
 ## TODOS
@@ -56,8 +57,9 @@ tags: [project,learn ]
 
 [1]:	https://github.com/biazzotto/svgwrite "https://github.com/biazzotto/svgwrite"
 [2]:	http://brew.sh/index_zh-cn.html
-[3]:	https://github.com/Yixiaohan/show-me-the-code
-[4]:	https://spacewander.github.io/explore-flask-zh/14-deployment.html
-[5]:	http://sqlzoo.net/wiki/SQL_Tutorial
-[6]:	http://www.shizhuolin.com/2015/04/19/978.html
-[7]:	https://www.kaggle.com/
+[3]:	http://effbot.org/tkinterbook/
+[4]:	https://github.com/Yixiaohan/show-me-the-code
+[5]:	https://spacewander.github.io/explore-flask-zh/14-deployment.html
+[6]:	http://sqlzoo.net/wiki/SQL_Tutorial
+[7]:	http://www.shizhuolin.com/2015/04/19/978.html
+[8]:	https://www.kaggle.com/
