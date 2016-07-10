@@ -12,5 +12,7 @@ tags: [test, ]
 - 试了好几次主题，页面显示不成功，有可能是编译未通过？最终fork了microdust的模版，成功。
 - 放在`_post`子目录的文章仍然会显示，删除fork过来的所有放在子目录里的post存档。
 - ulysses编辑器有问题，弃用。
-- [macdown编辑器](https://uranusjr.com/work/)
+- [macdown编辑器][1]
 - 可以通过在主文件夹中增加page样式文件，增加右上的page页。
+
+[1]:	https://uranusjr.com/work/
