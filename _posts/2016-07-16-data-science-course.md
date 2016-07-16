@@ -7,9 +7,12 @@ categories: [blog ]
 tags: [learn,project ]
  
 ---
+
 ## 开始学习EDX上的Data Science课程
 课程来自Microsoft，地址：[https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+5T2016/info][1]
+
 ## 笔记
+
 ### 课程介绍
 - 课程内容。
 - 工具 Excel powerBI R Python spark
