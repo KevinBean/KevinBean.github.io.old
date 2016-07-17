@@ -7,7 +7,7 @@ categories: [blog ]
 tags: [总结,post ]
  
 ---
-![][image-1]
+
 ## Python下两种曲线救国实现AIML中文聊天机器人功能的方法
 AIML，全称Artificial Intelligence Markup Language，是一种XML模式，用做自然语言聊天机器人的规则库。
 最简单的AIML规则如下：
@@ -80,5 +80,3 @@ Aiml可以用来实现对话机器人，但是用于中文有以下问题：
 [1]:	www.alicebot.org/aiml.html
 [2]:	http://www.w3ii.com/aiml/aiml_introduction.html
 [3]:	http://www.lai18.com/content/5447412.html
-
-[image-1]:	http://git.writelab.cn/images/alicebot.jpg
