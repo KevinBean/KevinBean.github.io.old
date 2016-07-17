@@ -14,5 +14,7 @@ tags: [test, ]
 - ulysses编辑器有问题，弃用。
 - [macdown编辑器][1]
 - 可以通过在主文件夹中增加page样式文件，增加右上的page页。
+- xlwt只能写入新的excel文件；
+- pandas的to_excel，to_csv等输出函数不能处理unicode字符，需要修改engine为openpyxl。
 
 [1]:	https://uranusjr.com/work/
