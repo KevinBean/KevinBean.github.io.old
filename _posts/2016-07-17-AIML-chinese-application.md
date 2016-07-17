@@ -74,7 +74,6 @@ Aiml可以用来实现对话机器人，但是用于中文有以下问题：
 	为了实现中文输入与模式的对应关系。建立规则库时，用分词工具对匹配模式进行预处理；在处理输入信息时，使用相同的分词工具进行处理。
 
 	基本思路和逐字添加空格类似。但是分词工具能同时兼顾中文的语义表达性。
-	  
 本文采用ulysses写作。
 耗时：50分钟
 
@@ -82,4 +81,4 @@ Aiml可以用来实现对话机器人，但是用于中文有以下问题：
 [2]:	http://www.w3ii.com/aiml/aiml_introduction.html
 [3]:	http://www.lai18.com/content/5447412.html
 
-[image-1]:	images/alicebot.jpg
+[image-1]:	http://git.writelab.cn/images/alicebot.jpg
