@@ -21,6 +21,7 @@ tags: [project,learn ]
 - aims 聊天机器人
 - node.js (最新版自带npm）
 - Tkinter GUI开发工具，python版官方工具 [参考文档][3]
+- python-docx 用来读取docx文件
 
 
 ## python学习
