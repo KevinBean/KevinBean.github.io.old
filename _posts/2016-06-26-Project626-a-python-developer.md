@@ -23,6 +23,7 @@ tags: [project,learn ]
 - Tkinter GUI开发工具，python版官方工具 [参考文档][3]
 - 文本相似度比较 python包 gensim
 - 雅虎的yql查询
+- python-docx 用来读取docx文件
 
 
 ## python学习
