@@ -21,6 +21,8 @@ tags: [project,learn ]
 - aims 聊天机器人
 - node.js (最新版自带npm）
 - Tkinter GUI开发工具，python版官方工具 [参考文档][3]
+- 文本相似度比较 python包 gensim
+- 雅虎的yql查询
 
 
 ## python学习
