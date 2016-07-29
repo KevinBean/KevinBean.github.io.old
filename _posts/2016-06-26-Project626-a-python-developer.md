@@ -24,6 +24,9 @@ tags: [project,learn ]
 - 文本相似度比较 python包 gensim
 - 雅虎的yql查询
 - python-docx 用来读取docx文件
+- csvkit
+- python网络图分析包 向心性测度: networkx 和 igraph
+- Tabula 免费开源PDF数据提取工具
 
 
 ## python学习
