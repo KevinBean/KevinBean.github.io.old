@@ -27,6 +27,13 @@ tags: [project,learn ]
 - csvkit
 - python网络图分析包 向心性测度: networkx 和 igraph
 - Tabula 免费开源PDF数据提取工具
+- gensim 文本相似度计算
+- fuzzywuzzy 模糊字符串匹配
+- xpinyin 一个用于把汉字转换为拼音的库
+- pygal 一个 Python SVG 图表创建工具。
+- whoosh 搜索引擎
+
+
 
 
 ## python学习
