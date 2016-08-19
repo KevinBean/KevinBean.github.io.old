@@ -20,4 +20,8 @@ tags: [project,learn ]
 
 输出：1262340000.0
 
+## 这条排序没看懂
+	sims=sorted(enumerate(sims),key=lambda item: item[1],reverse=True)
+
+
 D3.js
