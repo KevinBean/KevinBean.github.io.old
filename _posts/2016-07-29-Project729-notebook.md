@@ -25,3 +25,6 @@ tags: [project,learn ]
 
 
 D3.js
+
+## pandoc
+pandoc可以很方便的转换文档格式，但是不知为何，“doc/SL331C-A-01.docx”文件转换时会丢失数字和字母数据。
