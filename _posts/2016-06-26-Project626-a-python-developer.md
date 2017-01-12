@@ -32,8 +32,12 @@ tags: [project,learn ]
 - xpinyin 一个用于把汉字转换为拼音的库
 - pygal 一个 Python SVG 图表创建工具。
 - whoosh 搜索引擎
+- py转exe工具
+	- py2exe
+	- pyinstaller
+	- cxfreeze
 
-
+		 
 
 
 ## python学习
