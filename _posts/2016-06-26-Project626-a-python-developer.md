@@ -36,21 +36,24 @@ tags: [project,learn ]
 	- py2exe
 	- pyinstaller
 	- cxfreeze
+- scrapemark 可以根据模板提取信息内容，目前已经停止维护 [http://blog.arshaw.com/1/post/2013/03/reflecting-on-scrapemark.html][4] 测试失败
+- scrapely 另一个可以根据模板提取信息内容的库，并且具有学习功能 [https://github.com/scrapy/scrapely][5] 测试失败
+- tkinterhtml Tkhtml3的Python封装包，实现tkinter中展示html代码 测试成功
 
-		 
+	 
 
 
 ## python学习
-- [python练习册][4]
+- [python练习册][6]
 - 网站开发
 	- Flask Web开发
 		- virtualenv环境，一个便捷的Python虚拟环境，pycharm中可以直接创建
-		- [Flask 之旅][5]
+		- [Flask 之旅][7]
 - 学习mysql
-	- [MySQL在线学习及测试][6]
+	- [MySQL在线学习及测试][8]
 - 数据科学
-	- [十分钟搞定pandas][7]
-	- [https://www.kaggle.com/][8]
+	- [十分钟搞定pandas][9]
+	- [https://www.kaggle.com/][10]
 - PYTHON自然语言处理中文翻译 NLTK Natural Language Processing with Python 中文版.pdf 2016.06
 
 ## TODOS
@@ -75,8 +78,10 @@ tags: [project,learn ]
 [1]:	https://github.com/biazzotto/svgwrite "https://github.com/biazzotto/svgwrite"
 [2]:	http://brew.sh/index_zh-cn.html
 [3]:	http://effbot.org/tkinterbook/
-[4]:	https://github.com/Yixiaohan/show-me-the-code
-[5]:	https://spacewander.github.io/explore-flask-zh/14-deployment.html
-[6]:	http://sqlzoo.net/wiki/SQL_Tutorial
-[7]:	http://www.shizhuolin.com/2015/04/19/978.html
-[8]:	https://www.kaggle.com/
+[4]:	http://blog.arshaw.com/1/post/2013/03/reflecting-on-scrapemark.html
+[5]:	https://github.com/scrapy/scrapely
+[6]:	https://github.com/Yixiaohan/show-me-the-code
+[7]:	https://spacewander.github.io/explore-flask-zh/14-deployment.html
+[8]:	http://sqlzoo.net/wiki/SQL_Tutorial
+[9]:	http://www.shizhuolin.com/2015/04/19/978.html
+[10]:	https://www.kaggle.com/
