@@ -39,21 +39,29 @@ tags: [project,learn ]
 - scrapemark 可以根据模板提取信息内容，目前已经停止维护 [http://blog.arshaw.com/1/post/2013/03/reflecting-on-scrapemark.html][4] 测试失败
 - scrapely 另一个可以根据模板提取信息内容的库，并且具有学习功能 [https://github.com/scrapy/scrapely][5] 测试失败
 - tkinterhtml Tkhtml3的Python封装包，实现tkinter中展示html代码 测试成功
+- Bokeh 是新一代 Python 数据可视化库，简单易用，功能强大。
+- pelican 用Python语言编写的静态网站生成器
+- wxpython GUI开发工具
+- wxglade wxpython可视化辅助工具 不好用
+- wxFormBuilder 好用的 wxPython 界面設計工具 
+- xml xml解析工具
+	- xml.dom.minidom 不好用
+	- xml.etree.ElementTree（以下简称ET） 较好用 [http://codingpy.com/article/parsing-xml-using-python/][6]
 
-	 
+
 
 
 ## python学习
-- [python练习册][6]
+- [python练习册][7]
 - 网站开发
 	- Flask Web开发
 		- virtualenv环境，一个便捷的Python虚拟环境，pycharm中可以直接创建
-		- [Flask 之旅][7]
+		- [Flask 之旅][8]
 - 学习mysql
-	- [MySQL在线学习及测试][8]
+	- [MySQL在线学习及测试][9]
 - 数据科学
-	- [十分钟搞定pandas][9]
-	- [https://www.kaggle.com/][10]
+	- [十分钟搞定pandas][10]
+	- [https://www.kaggle.com/][11]
 - PYTHON自然语言处理中文翻译 NLTK Natural Language Processing with Python 中文版.pdf 2016.06
 
 ## TODOS
@@ -80,8 +88,9 @@ tags: [project,learn ]
 [3]:	http://effbot.org/tkinterbook/
 [4]:	http://blog.arshaw.com/1/post/2013/03/reflecting-on-scrapemark.html
 [5]:	https://github.com/scrapy/scrapely
-[6]:	https://github.com/Yixiaohan/show-me-the-code
-[7]:	https://spacewander.github.io/explore-flask-zh/14-deployment.html
-[8]:	http://sqlzoo.net/wiki/SQL_Tutorial
-[9]:	http://www.shizhuolin.com/2015/04/19/978.html
-[10]:	https://www.kaggle.com/
+[6]:	http://codingpy.com/article/parsing-xml-using-python/
+[7]:	https://github.com/Yixiaohan/show-me-the-code
+[8]:	https://spacewander.github.io/explore-flask-zh/14-deployment.html
+[9]:	http://sqlzoo.net/wiki/SQL_Tutorial
+[10]:	http://www.shizhuolin.com/2015/04/19/978.html
+[11]:	https://www.kaggle.com/
