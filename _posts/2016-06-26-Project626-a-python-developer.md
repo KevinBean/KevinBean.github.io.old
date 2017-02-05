@@ -47,21 +47,24 @@ tags: [project,learn ]
 - xml xml解析工具
 	- xml.dom.minidom 不好用
 	- xml.etree.ElementTree（以下简称ET） 较好用 [http://codingpy.com/article/parsing-xml-using-python/][6]
+- time time.strptime字符串转换为时间  time.strftime 时间转换为字符串
+- sys 适用sys.path[0]() 获取当前地址
+
 
 
 
 
 ## python学习
-- [python练习册][7]
+- [python练习册][8]
 - 网站开发
 	- Flask Web开发
 		- virtualenv环境，一个便捷的Python虚拟环境，pycharm中可以直接创建
-		- [Flask 之旅][8]
+		- [Flask 之旅][9]
 - 学习mysql
-	- [MySQL在线学习及测试][9]
+	- [MySQL在线学习及测试][10]
 - 数据科学
-	- [十分钟搞定pandas][10]
-	- [https://www.kaggle.com/][11]
+	- [十分钟搞定pandas][11]
+	- [https://www.kaggle.com/][12]
 - PYTHON自然语言处理中文翻译 NLTK Natural Language Processing with Python 中文版.pdf 2016.06
 
 ## TODOS
@@ -89,8 +92,8 @@ tags: [project,learn ]
 [4]:	http://blog.arshaw.com/1/post/2013/03/reflecting-on-scrapemark.html
 [5]:	https://github.com/scrapy/scrapely
 [6]:	http://codingpy.com/article/parsing-xml-using-python/
-[7]:	https://github.com/Yixiaohan/show-me-the-code
-[8]:	https://spacewander.github.io/explore-flask-zh/14-deployment.html
-[9]:	http://sqlzoo.net/wiki/SQL_Tutorial
-[10]:	http://www.shizhuolin.com/2015/04/19/978.html
-[11]:	https://www.kaggle.com/
+[8]:	https://github.com/Yixiaohan/show-me-the-code
+[9]:	https://spacewander.github.io/explore-flask-zh/14-deployment.html
+[10]:	http://sqlzoo.net/wiki/SQL_Tutorial
+[11]:	http://www.shizhuolin.com/2015/04/19/978.html
+[12]:	https://www.kaggle.com/
