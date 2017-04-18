@@ -27,10 +27,10 @@ zhihu_username:
 # Build settings  
 # use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
-markdown: markdown
-kramdown:
-  input: GFM
-highlighter: rouge
+# markdown: Kramdown
+# Kramdown:
+#  input: GFM
+# highlighter: rouge
 
 gems: 
 - jekyll-gallery-generator
