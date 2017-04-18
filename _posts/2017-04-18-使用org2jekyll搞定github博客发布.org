@@ -1,0 +1,34 @@
+#+BEGIN_EXPORT HTML
+---
+date: 2017-04-18
+tags: 
+- blog
+- test
+- newstart
+- emacs
+- org
+- jekyll
+- github
+author: KevinBean
+layout: post
+title: 使用org2jekyll搞定github博客发布
+excerpt: 终于!使用org2jekyll实现了博客的管理.
+categories: 
+- none
+---
+#+END_EXPORT
+#+STARTUP: showall
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:t
+#+LAYOUT: post
+#+AUTHOR: KevinBean
+#+DATE: 2017-04-18 Tue 22:35
+#+TITLE: 使用org2jekyll搞定github博客发布
+#+DESCRIPTION: 终于!使用org2jekyll实现了博客的管理.
+#+TAGS: blog,test,newstart,emacs,org,jekyll,github
+#+CATEGORIES: none
+
+* 安装org2jekyll
+* 配置org2jekyll
+* 试写第一篇org日志
+* 尝试发布成github博客
