@@ -21,7 +21,7 @@ tags: [test,emacs,jekyll,markdown ]
 
 学习:       [jekyll/jekyll.el at master · metajack/jekyll](https://github.com/metajack/jekyll/blob/master/emacs/jekyll.el)       :emacs:学习:org::
 
-学习:       hyde 使用 org 发布 jekyll 博客[the website of noufal ibrahim  hyde : an emacs mode for jekyll blogs](http://nibrahim.net.in/2010/11/11/hyde_:_an_emacs_mode_for_jekyll_blogs.html) :emacs:学习:org::
+学习:       hyde 使用 org 发布 jekyll 博客[the website of noufal ibrahim |q hyde : an emacs mode for jekyll blogs](http://nibrahim.net.in/2010/11/11/hyde_:_an_emacs_mode_for_jekyll_blogs.html) :emacs:学习:org::
 
 学习:       waiting [#a] 使用 ox-jekyll                        :emacs:学习:org::
 
